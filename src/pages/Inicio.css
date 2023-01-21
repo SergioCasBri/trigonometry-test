@@ -1,0 +1,12 @@
+.home-container {
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    background-color: azure;
+}
+.titulo {
+    font-size: x-large;
+    font-style: italic;
+    color: rgb(58, 129, 129);
+
+}
