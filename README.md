@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Features needed ###
+
+As a developer, I want to create the feature for making the calculation of the sine angle. According to the pictures, the user can submit as input the cateto opuesto and hipotenusa variables. From it, the app will calculate the angle and will show the answer in degrees. The user can modify the variables and the app should have the feature to recalculate if the input variables change. 
+Also the app should control the input variables:
+catetoOpuesto, hipotunusa => x,x   0 > x > 1000
+
